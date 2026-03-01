@@ -51,18 +51,20 @@
 
 ---
 
-### 📈 Detailed Metrics
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/rcadd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta" width="60%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rcadd&theme=tokyonight&column=4&no-frame=true" />
 </p>
 
 ---
 
-### 🎵 Now Playing
+### 🌌 3D Contribution Skyline
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://skyline.github.com/rcadd/2024" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-2024-blue?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
