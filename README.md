@@ -1,8 +1,4 @@
-<!-- GitHub Profile README.md -->
-
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cyrus;Welcome+to+my+GitHub!;Learning+%26+Building+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cyrus;Welcome+to+my+GitHub!;Learning+%26+Building+%F0%9F%9A%80)
 
   <h3>🌱 Beginner exploring Web, Web3, Crypto & Bot Development</h3>
   
@@ -45,26 +41,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcadd&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rcadd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcadd&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-### 🏆 Achievements
+### 📈 Detailed Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rcadd&theme=tokyonight&column=4&no-frame=true" />
+  <img src="https://metrics.lecoq.io/rcadd?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta" width="70%" />
 </p>
 
 ---
 
-### 🌌 3D Contribution Skyline
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://skyline.github.com/rcadd/2024" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%203D%20Skyline-2024-blue?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rcadd&theme=tokyonight&column=4&no-frame=true&margin-w=15" />
 </p>
 
 ---
